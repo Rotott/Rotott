@@ -105,7 +105,9 @@ More projects available at:
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/>
 </p>
 
+<!--
 ---
+
 
 ## 🚀 What Drives Me
 I have a strong passion for software development and enjoy building systems that solve **real-world problems**.
@@ -113,5 +115,9 @@ I have a strong passion for software development and enjoy building systems that
 Coming from competitive swimming with multiple national medals, I bring the same discipline, focus, and persistence to my work as a developer. I value clean code, thorough testing, and continuous learning, and I’m motivated by projects that make a meaningful impact.
 
 ---
+-->
+
+
+
 ## 📫 Contact
 - 📧 Email: **anton.o.jansson02@gmail.com**
