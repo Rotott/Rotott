@@ -1,14 +1,13 @@
 <h1 align="center">Hi, I'm Anton</h1>
-<h3 align="center">Aspiring Software Developer | B.Sc. Computer Science @ Malmö University</h3>
+<h3 align="center"> Software Developer | B.Sc. Computer Science @ Malmö University</h3>
 
 <p align="center">
-Final-year Computer Science student preparing my bachelor thesis.  
 Actively exploring opportunities in <strong>backend and full-stack development</strong>.
 </p>
 
 ---
 
-### 🎓 Bachelor Thesis (Starting spring 2026)
+### 🎓 Bachelor Thesis 
 **Digital Reading Support Tool for Students**
 -  Based on *The Simple View of Reading* (decoding & language comprehension)
 -  Goal: Build and evaluate a **prototype** that provides real-time feedback while students read aloud
