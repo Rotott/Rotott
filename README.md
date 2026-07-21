@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anton Jansson 👋</h1>
+<h1 align="center">Hi, I'm Anton Jansson </h1>
 <h3 align="center">Software Engineer | Java & Full-Stack Developer</h3>
 
 <p align="center">
@@ -105,7 +105,7 @@ More projects available at:
 
 ---
 
-## 📬 Connect with Me
+##  Connect with Me
 
 * **Email:** [anton.o.jansson02@gmail.com](mailto:anton.o.jansson02@gmail.com)
 * **LinkedIn:** [linkedin.com/in/jansson-anton](https://www.linkedin.com/in/jansson-anton)
