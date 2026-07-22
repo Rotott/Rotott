@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anton  </h1>
-<h3 align="center">Software Engineer | Java & Full-Stack Developer</h3>
+<h3 align="center">Software Engineer | Java, C++ & Full-Stack Developer</h3>
 
 <p align="center">
   <b>Computer Science Graduate</b> with a strong background in backend systems, REST APIs, and modern architecture.<br>
